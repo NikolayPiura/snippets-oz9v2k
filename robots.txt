@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NikolayPiura.github.io/snippets-oz9v2k/sitemap.xml
